@@ -53,3 +53,21 @@ kohya_LoRA_trainer.ipynb: This notebook serves as a detailed LoRA weights traine
 For better user experience, we implement a simple GUI.
 + Dependencies are listed at the top of the file.
 + Feel free to run everything above and jump directly to the GUI part, and have fun with AI drawing 😸
+
+## Citing 0-Sketch-Paint
+
+If you use 0-Sketch-Paint or the structure in your research, please use the following BibTeX entry.
+
+```bibtex
+  @inproceedings{10.1145/3629606.3629675,
+  author = {He, Qingyang and Zheng, Weicheng and Bao, Hanxi and Chen, Ruiqi and Tong, Xin},
+  title = {Exploring Designers’ Perceptions and Practices of Collaborating with Generative AI as a Co-creative Agent in a Multi-stakeholder Design Process: Take the Domain of Avatar Design as an Example},
+  year = {2023},
+  publisher = {Association for Computing Machinery},
+  url = {https://doi.org/10.1145/3629606.3629675},
+  doi = {10.1145/3629606.3629675},
+  booktitle = {Proceedings of the Eleventh International Symposium of Chinese CHI},
+  location = {Denpasar, Bali, Indonesia},
+  series = {CHCHI '23}
+  }
+```
