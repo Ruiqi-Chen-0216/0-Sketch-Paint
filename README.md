@@ -18,7 +18,7 @@
 
   <h3 align="center">
     <a href="https://github.com/Ruiqi-Chen-0216/0-Sketch-Paint">Code</a> | 
-    <a href="https://dl.acm.org/doi/fullHtml/10.1145/3629606.3629675">Paper</a> | 
+    <a href="https://dl.acm.org/doi/10.1145/3629606.3629675">Paper</a> | 
   </h3>
 
   <div align="center"></div>
