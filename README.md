@@ -9,7 +9,7 @@
     <a href="https://ruiqi-chen-0216.github.io/"><strong>Ruiqi Chen</strong></a><sup>1</sup>, 
     <a href="https://scholar.google.ca/citations?user=XIM08ZwAAAAJ&hl=en">Xin Tong</a><sup>1</sup>
     <br>
-    <sup>1</sup>Duke Kunshan University <br>
+    <sup>1</sup>Human-Computer Interaction Lab, Duke Kunshan University <br>
     <sup>*</sup>equal contribution
   </p>
 
