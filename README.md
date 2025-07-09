@@ -6,7 +6,7 @@
     <a href="https://qingyanghe.com/">Qingyang He</a><sup>*</sup>, 
     <a href="https://orcid.org/0009-0002-2550-8823">Weicheng Zheng</a><sup>*</sup>, 
     <a href="https://orcid.org/0009-0004-4014-2908">Hanxi Bao</a>, 
-    <a href="https://ruiqi-chen-0216.github.io/)"><strong>Ruiqi Chen</strong>, 
+    <a href="https://ruiqi-chen-0216.github.io/)"><strong>Ruiqi Chen</strong></a>, 
     <a href="https://scholar.google.ca/citations?user=XIM08ZwAAAAJ&hl=en">Xin Tong</a>
     <br>
     <sup>*</sup>equal contribution
