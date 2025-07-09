@@ -3,14 +3,16 @@
   <h1 align="center">Exploring Designers' Perceptions and Practices of Collaborating with Generative AI as a Co-creative Agent in a Multi-stakeholder Design Process: The Case of Avatar Design</h1>
 
   <p align="center">
-    <a href="https://qingyanghe.com/">Qingyang He</a><sup>*</sup>, 
-    <a href="https://orcid.org/0009-0002-2550-8823">Weicheng Zheng</a><sup>*</sup>, 
-    <a href="https://orcid.org/0009-0004-4014-2908">Hanxi Bao</a>, 
-    <a href="https://ruiqi-chen-0216.github.io/)"><strong>Ruiqi Chen</strong></a>, 
-    <a href="https://scholar.google.ca/citations?user=XIM08ZwAAAAJ&hl=en">Xin Tong</a>
+    <a href="https://qingyanghe.com/">Qingyang He</a><sup>1*</sup>, 
+    <a href="https://orcid.org/0009-0002-2550-8823">Weicheng Zheng</a><sup>1*</sup>, 
+    <a href="https://orcid.org/0009-0004-4014-2908">Hanxi Bao</a><sup>1</sup>, 
+    <a href="https://ruiqi-chen-0216.github.io/"><strong>Ruiqi Chen</strong></a><sup>1</sup>, 
+    <a href="https://scholar.google.ca/citations?user=XIM08ZwAAAAJ&hl=en">Xin Tong</a><sup>1</sup>
     <br>
+    <sup>1</sup>Duke Kunshan University <br>
     <sup>*</sup>equal contribution
   </p>
+
 
   <h2 align="center">ChineseCHI 2023</h2>
 
