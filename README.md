@@ -1,7 +1,41 @@
-# 0-Sketch-Color
-STAT402 Final Project Coding
+<p align="center">
 
-This README file provides an overview of the coding part for our STAT402 Final Project. 
+  <h1 align="center">Exploring Designers' Perceptions and Practices of Collaborating with Generative AI as a Co-creative Agent in a Multi-stakeholder Design Process: The Case of Avatar Design</h1>
+
+  <p align="center">
+    <a href="https://qingyanghe.com/">Qingyang He</a><sup>*</sup>, 
+    <a href="https://orcid.org/0009-0002-2550-8823">Weicheng Zheng</a><sup>*</sup>, 
+    <a href="https://orcid.org/0009-0004-4014-2908">Hanxi Bao</a>, 
+    <a href="https://ruiqi-chen-0216.github.io/)"><strong>Ruiqi Chen</strong>, 
+    <a href="https://scholar.google.ca/citations?user=XIM08ZwAAAAJ&hl=en">Xin Tong</a>
+    <br>
+    <sup>*</sup>equal contribution
+  </p>
+
+  <h2 align="center">[Venue or Year Here]</h2>
+
+  <h3 align="center">
+    <a href="[link-to-code-if-any]">Code</a> | 
+    <a href="[link-to-paper-or-arxiv]">Paper</a> | 
+    <a href="[link-to-project-page]">Project Page</a>
+  </h3>
+
+  <div align="center"></div>
+
+</p>
+
+<p align="center">
+  <a href="">
+    <img src="[link-to-your-teaser-image]" alt="Teaser" width="100%">
+  </a>
+</p>
+
+<p align="center">
+<strong>This work</strong> explores how designers perceive and practice collaboration with generative AI as a co-creative agent within a multi-stakeholder design process, taking avatar design as an example domain. We examine the opportunities and challenges of integrating AI into creative workflows and propose insights for designing AI-assisted tools in complex design contexts.
+</p>
+
+<br>
+
 
 ## Step 1: 0-Sketch
 
