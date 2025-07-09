@@ -12,12 +12,11 @@
     <sup>*</sup>equal contribution
   </p>
 
-  <h2 align="center">[Venue or Year Here]</h2>
+  <h2 align="center">ChineseCHI 2023</h2>
 
   <h3 align="center">
-    <a href="[link-to-code-if-any]">Code</a> | 
-    <a href="[link-to-paper-or-arxiv]">Paper</a> | 
-    <a href="[link-to-project-page]">Project Page</a>
+    <a href="https://github.com/Ruiqi-Chen-0216/0-Sketch-Paint">Code</a> | 
+    <a href="https://dl.acm.org/doi/fullHtml/10.1145/3629606.3629675">Paper</a> | 
   </h3>
 
   <div align="center"></div>
@@ -26,7 +25,7 @@
 
 <p align="center">
   <a href="">
-    <img src="[link-to-your-teaser-image]" alt="Teaser" width="100%">
+    <img src="0-Sketch-Paint.png" alt="Teaser" width="100%">
   </a>
 </p>
 
